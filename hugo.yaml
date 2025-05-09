@@ -1,8 +1,9 @@
 baseurl: https://www.blog.everythingflows.net/
-#languageCode: zh-Hans
+#languageCode: zh-cn
 theme: hana
 title: 万物流转
 copyright: 万物流转
+
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -22,11 +23,11 @@ languages:
                 subtitle: 传播我的虚弱
     en:
         languageName: English
-        title: Example Site
+        title: everythingflows
         weight: 1
         params:
             sidebar:
-                subtitle: Example description
+                subtitle: spread my weak
 
 services:
     # Change it to your Disqus shortname before using
@@ -48,7 +49,8 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
+    favicon: /favicon.ico
+# e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
         since: 2020
