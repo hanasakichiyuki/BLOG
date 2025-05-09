@@ -7,4 +7,4 @@ menu:
             icon: user
 ---
 
-This is a test page for i18n support.
+君子辩于心，小人辩于口；君子辩于志，小人辩于词。
