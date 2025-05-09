@@ -1,4 +1,4 @@
-baseUrl: http://blog.everythingflows.net/
+baseUrl: https://blog.everythingflows.net/
 #languageCode: zh-cn
 theme: hana
 title: 万物流转
@@ -32,7 +32,7 @@ languages:
 services:
     # Change it to your Disqus shortname before using
     disqus:
-        shortname: "hugo-theme-stack"
+        shortname: "万物流转"
     # GA Tracking ID
     googleAnalytics:
         id:

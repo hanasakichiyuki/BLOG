@@ -13,7 +13,7 @@
         <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/p/test-chinese/</guid>
-        <description>&lt;img src="http://localhost:1313/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post 记录一下打算看的一些作品" /&gt;&lt;p&gt;电影：&lt;/p&gt;
+        <description>&lt;img src="http://localhost:1313/p/test-chinese/1.jpg" alt="Featured image of post 记录一下打算看的一些作品" /&gt;&lt;p&gt;电影：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;爱情短片
 上帝的愤怒
@@ -98,16 +98,16 @@ S4U 都市朋克2011与爱的重拳
 黑袍纠察队
 双峰&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h2 id=&#34;图片&#34;&gt;图片
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/test-chinese/1.jpg&#34;
-	width=&#34;4702&#34;
-	height=&#34;2000&#34;
-	srcset=&#34;http://localhost:1313/p/test-chinese/1_hu_dc325c8061be6c78.jpg 480w, http://localhost:1313/p/test-chinese/1_hu_6b0e04b4387e603.jpg 1024w&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/test-chinese/2.jpg&#34;
+	width=&#34;2523&#34;
+	height=&#34;4096&#34;
+	srcset=&#34;http://localhost:1313/p/test-chinese/2_hu_8e21a1a761d3ecaf.jpg 480w, http://localhost:1313/p/test-chinese/2_hu_5af47597e62761b4.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
 		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;235&#34;
-		data-flex-basis=&#34;564px&#34;
+		data-flex-grow=&#34;61&#34;
+		data-flex-basis=&#34;147px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
