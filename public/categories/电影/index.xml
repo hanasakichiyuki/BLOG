@@ -1,125 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>电影 on 万物流转</title>
-        <link>http://localhost:1313/categories/%E7%94%B5%E5%BD%B1/</link>
-        <description>Recent content in 电影 on 万物流转</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language>
-        <copyright>万物流转</copyright>
-        <lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E7%94%B5%E5%BD%B1/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>记录一下打算看的一些作品</title>
-        <link>http://localhost:1313/p/test-chinese/</link>
-        <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/p/test-chinese/</guid>
-        <description>&lt;img src="http://localhost:1313/p/test-chinese/1.jpg" alt="Featured image of post 记录一下打算看的一些作品" /&gt;&lt;p&gt;电影：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;爱情短片
-上帝的愤怒
-恐惧吞噬灵魂
-公路之王
-遥远的雷声
-东京物语
-浮云
-阿玛柯德
-戏梦人生
-阿诺拉
-四百击
-爱的曝光
-摔角王
-疯狂店员
-这个男人来自地球
-大都会
-K星异客
-异次元骇客
-水形物语
-深渊
-月球
-源代码
-千钧一发
-少数派报告
-黑洞频率
-彗星来的那一夜
-刑房
-鲸
-乐土
-燃烧女子的肖像
-面子
-真心半解
-高潮
-雷管
-追随
-萨尔瓦多&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;漫画 ：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;漂流网咖
-薄墨的尽头
-20世纪少年
-雷霆三人行
-即使我不再是15岁
-LOVE·BULLET
-弗兰克·米勒
-想接吻的男孩
-章鱼噼的原罪
-末日笔友
-晚安布布
-light again
-割肉
-水平线
-BUGEGO
-雷雷雷&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;书：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;海伯利安
-厄舍府的崩塌
-阿拉斯泰尔·雷诺兹 渊堑城&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;导演：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;特瑞·吉列姆
-大卫柯南伯格
-大卫林奇
-布列松
-费里尼
-伯格曼
-安德烈·塔可夫斯基
-帕索里尼
-拉斯·冯·提尔
-马丁斯科塞斯&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;游戏：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;史丹利的寓言
-S4U 都市朋克2011与爱的重拳
-无垠之心&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;电视剧：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;波巴·费特之书
-曼达洛人
-黑袍纠察队
-双峰&lt;/p&gt;&lt;/blockquote&gt;
-&lt;h2 id=&#34;图片&#34;&gt;图片
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/test-chinese/2.jpg&#34;
-	width=&#34;2523&#34;
-	height=&#34;4096&#34;
-	srcset=&#34;http://localhost:1313/p/test-chinese/2_hu_8e21a1a761d3ecaf.jpg 480w, http://localhost:1313/p/test-chinese/2_hu_5af47597e62761b4.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;61&#34;
-		data-flex-basis=&#34;147px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;相册语法来自 &lt;a class=&#34;link&#34; href=&#34;https://typlog.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Typlog&lt;/a&gt;&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
+  <channel>
+    <title>电影 on 万物流转</title>
+    <link>http://localhost:1313/categories/%E7%94%B5%E5%BD%B1/</link>
+    <description>Recent content in 电影 on 万物流转</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <copyright>万物流转</copyright>
+    <lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E7%94%B5%E5%BD%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>记录一下打算看的一些作品</title>
+      <link>http://localhost:1313/p/test-chinese/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/p/test-chinese/</guid>
+      <description>&lt;p&gt;电影：&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;爱情短片&#xA;上帝的愤怒&#xA;恐惧吞噬灵魂&#xA;公路之王&#xA;遥远的雷声&#xA;东京物语&#xA;浮云&#xA;阿玛柯德&#xA;戏梦人生&#xA;阿诺拉&#xA;四百击&#xA;爱的曝光&#xA;摔角王&#xA;疯狂店员&#xA;这个男人来自地球&#xA;大都会&#xA;K星异客&#xA;异次元骇客&#xA;水形物语&#xA;深渊&#xA;月球&#xA;源代码&#xA;千钧一发&#xA;少数派报告&#xA;黑洞频率&#xA;彗星来的那一夜&#xA;刑房&#xA;鲸&#xA;乐土&#xA;燃烧女子的肖像&#xA;面子&#xA;真心半解&#xA;高潮&#xA;雷管&#xA;追随&#xA;萨尔瓦多&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;漫画 ：&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;漂流网咖&#xA;薄墨的尽头&#xA;20世纪少年&#xA;雷霆三人行&#xA;即使我不再是15岁&#xA;LOVE·BULLET&#xA;弗兰克·米勒&#xA;想接吻的男孩&#xA;章鱼噼的原罪&#xA;末日笔友&#xA;晚安布布&#xA;light again&#xA;割肉&#xA;水平线&#xA;BUGEGO&#xA;雷雷雷&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;书：&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;海伯利安&#xA;厄舍府的崩塌&#xA;阿拉斯泰尔·雷诺兹 渊堑城&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;导演：&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;特瑞·吉列姆&#xA;大卫柯南伯格&#xA;大卫林奇&#xA;布列松&#xA;费里尼&#xA;伯格曼&#xA;安德烈·塔可夫斯基&#xA;帕索里尼&#xA;拉斯·冯·提尔&#xA;马丁斯科塞斯&lt;/p&gt;</description>
+    </item>
+  </channel>
 </rss>
